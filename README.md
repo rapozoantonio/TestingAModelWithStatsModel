@@ -1,3 +1,26 @@
 # Testing A Model With StatsModel
 
-## Test the model on new data.
+
+***
+## 📘 Basic Overview
+
+
+<br>
+
+🚫 N/A
+
+***
+## 🚀 How To Use
+
+<br>
+
+🚫 N/A
+
+
+***
+## ❤️ You may also like...
+
+<br>
+
+🚫 N/A
+
